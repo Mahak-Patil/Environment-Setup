@@ -8,4 +8,3 @@ php composer.phar require aws/aws-sdk-php
 require 'vendor/autoload.php';
 
 echo  "$1" > /var/www/html/hello.txt
-
